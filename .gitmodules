@@ -1,0 +1,6 @@
+[submodule "backEnd"]
+	path = backEnd
+	url = https://github.com/TEAM3EncodeClub/bootcamp-dapp-api.git
+[submodule "frontEnd"]
+	path = frontEnd
+	url = https://github.com/TEAM3EncodeClub/frontEndAngular.git
